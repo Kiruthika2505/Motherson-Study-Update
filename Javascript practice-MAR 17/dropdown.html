@@ -1,0 +1,25 @@
+<html>
+    <body>
+        Enter the number<input type="number" id="t1" name="n1" onkeyup="fun1()">
+        <p id="t1"></p>
+    </body>
+    <script>
+        function fun1(){
+            let a=document.getElementById("t1").value;
+            if(a<=0||a>10||a==null||a=="")
+            {
+                alert(a);
+            }
+            else
+            {
+                for(i=1;i<=a;i++)
+                {
+                    alert(i);
+                }
+            }
+            
+
+        }
+       
+    </script>
+</html>

@@ -1,0 +1,69 @@
+h1{
+    color:blue;
+    display: inline;
+}
+.u1{
+    list-style-type: none;
+    font-size:x-large;
+    display: inline;
+    text-indent: 30px;
+    color: crimson;
+}
+.l1{
+    list-style-type:none;
+    display: inline;
+    text-indent: start;
+}
+.l2{
+    list-style-type:none;
+    display: inline;
+    padding-inline:50px;
+}
+.l3{
+    display: inline;
+    padding: 50px;
+}
+.l4{
+    display: inline;
+    padding: 50px;
+}
+.l5{
+        display: inline;
+        padding: 50px;
+}
+.div1{
+    border: 1px solid black;
+    background-color:coral;
+    text-align: center;
+}
+.d1{
+    background-image: url("kg.jpg");
+    height: 500px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 15px;
+}
+.image2
+{
+   margin-left: 1000px;
+}
+label{
+    color:blue;
+}
+.form{
+    border-radius: 25px;
+    margin-left: 500px;
+    text-align:center;
+    width:500px;
+    background-color:powderblue;
+    margin-top: 10px;
+}
+.form1{
+    border:none;
+    border-bottom:1px solid red;
+    outline: none;
+}
+a:hover{
+    color: aqua;
+}

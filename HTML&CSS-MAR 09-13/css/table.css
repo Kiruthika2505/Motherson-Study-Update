@@ -1,0 +1,22 @@
+table,th,tr,td{
+    background-color:yellow;
+    color:red;
+    border:4px solid green;
+    empty-cells:show;
+    caption-side:bottom;
+
+    border-radius:12px;
+    padding:10px;
+    border-spacing:16px;
+    border-collapse:separate;
+    table-layout:auto;
+    
+    /*border-style:dashed;
+    border-color:blue;
+    
+    border-width:10px;*/
+    
+    height:50px;
+    width:100px;
+
+}

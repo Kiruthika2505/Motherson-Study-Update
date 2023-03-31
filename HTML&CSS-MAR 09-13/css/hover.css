@@ -1,0 +1,23 @@
+.d1 {
+    padding: 10px;
+    color: blueviolet;
+    background-color: aqua;
+}
+
+.but1 {
+    background-color: purple;
+    color: aqua;
+    height: 50px;
+    width: 100px;
+}
+
+div:hover {
+    background-color: yellowgreen;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: blue;
+    color: antiquewhite;
+    cursor: pointer;
+}

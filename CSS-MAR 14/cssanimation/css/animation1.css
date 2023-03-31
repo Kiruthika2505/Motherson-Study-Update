@@ -1,0 +1,20 @@
+.box1
+{
+    background-color:greenyellow;
+    height:200px;
+    width:200px;
+    animation-duration:3s;
+    margin:50px;
+    animation-name: example;
+}
+@keyframes example
+{
+ from
+ {
+    background-color:hotpink;
+ }   
+ to
+ {
+    background-color:lightgreen;
+ }
+}

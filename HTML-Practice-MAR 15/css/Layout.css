@@ -1,0 +1,68 @@
+div.container{
+    border:1px solid green;
+}
+.bg{
+    padding:10px;
+    background-color:grey; 
+}
+.home
+{
+    text-align: center;
+}
+
+.Award1
+{
+    text-align: center;
+}
+.s1
+{
+    color:orangered;
+}
+.s2
+{
+    color:white;
+}
+.head1
+{
+    margin-bottom:400px;
+    font-size: 27px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.head2
+{
+    margin-bottom:150px;
+    font-size:100px;
+    font-style:italic;
+    font-family:initial;
+    
+}
+.fa {
+    padding: 15px;
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+.fa:hover {
+    opacity: 0.7;
+  } 
+  .fa-facebook {
+    
+    color:blue;
+  }
+  .fa-twitter {
+   
+    color:lightseagreen;
+  } 
+  .fa-google {
+  
+    color:red;
+  }
+  .fa-linkedin{
+ 
+    color:blue;
+  }
+li:hover{
+    color: orangered;
+    
+}

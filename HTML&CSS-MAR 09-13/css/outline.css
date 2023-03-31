@@ -1,0 +1,12 @@
+.head{
+    padding: 10px;
+    outline-style:groove;
+    outline-width: 5px;
+    outline-color: aqua;
+}
+.para
+{
+    outline-style: groove;
+    outline-width: 5px;
+    outline-color: blue;
+}

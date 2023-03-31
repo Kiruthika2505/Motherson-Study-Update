@@ -1,0 +1,29 @@
+h1{
+    font-family:'Times New Roman', Times, serif;
+    color:red;
+    font-size:xx-small;
+}
+h2{
+    font-family:monospace;
+    font-style:italic;
+    color:rebeccapurple;
+    font-size:40px;
+    font-weight:200px;
+    font-variant:small-caps;
+    font-stretch:extra-expanded;
+
+}
+h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    /*font-style:oblique;*/
+    font-size:xx-large;
+    color:green;
+}
+p{
+    font-stretch:narrower;
+}
+div{
+    background-color:blueviolet;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-kerning:nor
+}

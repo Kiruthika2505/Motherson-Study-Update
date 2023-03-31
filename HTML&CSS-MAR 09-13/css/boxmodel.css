@@ -1,0 +1,29 @@
+div{
+    background-color:chartreuse;
+    color:red;
+    text-align:center;
+    height:300px;
+    width:400px;
+    border-top-width:12px;
+    border-top-style:dashed;
+    border-top-color:green;
+    border-bottom-width:14px;
+    border-bottom-style:double;
+    border-bottom-color:blue;
+    border-right-width:15px;
+    border-right-style:dotted;
+    border-right-color:deeppink;
+    border-left-width:17px;
+    border-left-style:groove;
+    border-left-color:rgb(55, 13, 55);
+    border-top-left-radius:50px;
+    border-top-right-radius:40px;
+    border-bottom-left-radius:34px;
+    border-bottom-right-radius:23px;
+    margin-top:40px;
+    margin-left:12px;
+    padding-left:12px;
+    padding-right:50px;
+    padding-top:23px;
+    padding-bottom:60px;   
+}

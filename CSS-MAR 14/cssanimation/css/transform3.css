@@ -1,0 +1,13 @@
+.droplet
+{
+    background-color:darkorange;
+    margin:100px;
+    padding:200px;
+    width:100px;
+    height:100px;
+    transition:all 0.8s;
+}
+.droplet:hover
+{
+    transform:rotate(1200deg);
+}

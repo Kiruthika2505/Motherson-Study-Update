@@ -1,0 +1,18 @@
+.object1
+{
+    height:100px;
+    width:200px;
+    margin:100px;
+    padding:100px;
+    transition:all 10s;
+    transform-origin:left top;
+    border-radius:12px 10px;
+    background-color:darkorange ;
+    transition-timing-function:linear;
+    
+}
+.object1:hover
+{
+    transform:rotate(360deg);
+
+}

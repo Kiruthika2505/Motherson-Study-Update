@@ -1,0 +1,15 @@
+.square
+{
+    height:200px;
+    
+    margin:200px;
+    padding:100px;
+    background-color:darkmagenta;
+    transition:transform 3s;
+    width:100px;
+    
+}
+.square:hover
+{
+    transform:scale(3);
+}
